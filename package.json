@@ -1,0 +1,19 @@
+{
+    "name": "foundry-vtt",
+    "devDependencies": {
+        "@types/aws-lambda": "^8.10.125",
+        "@types/node": "^16",
+        "aws-lambda": "^1.0.7"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^6.0.2",
+        "@pulumi/awsx": "^2.0.2",
+        "@pulumi/command": "^0.9.1",
+        "@pulumi/docker": "^4.4.4",
+        "@pulumi/pulumi": "^3.0.0",
+        "axios": "^1.5.1",
+        "axois": "^0.0.1-security",
+        "socket.io-client": "^4.7.2",
+        "typescript": "^4.0.0"
+    }
+}
